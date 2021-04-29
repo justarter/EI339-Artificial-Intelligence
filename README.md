@@ -25,4 +25,3 @@ utils.py: 一些工具函数
 使用以下命令可以测试图片：
 
 python solve_sudoku_puzzle.py --model output/keras_LeNet1280.00140.h5 --image test/1-1.jpg
-
